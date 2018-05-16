@@ -19,6 +19,8 @@ Wang et al. (2007) Naïve Bayesian classifier for rapid assignment of rRNA seque
 
 ## Additional information
 
+The CO1 Classifier training sets are available at https://github.com/terrimporter/CO1Classifier
+
 For additional information on choosing appropriate bootstrap support cutoff values, see Porter & Hajibabaei (2018) https://www.nature.com/articles/s41598-018-22505-4
 
 For additional information on how to run the RDP classifier, see the RDPclassifier 2.12 README.
