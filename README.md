@@ -1,6 +1,6 @@
 # README
 
-This document describes files and scripts used to create the CO1 Classifier web portal.
+This document describes files used to test the CO1 Classifier web portal.
 
 ## Folders
 
